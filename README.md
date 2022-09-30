@@ -6,7 +6,7 @@
 ### Also, the YouTube channel has many superb content and usually is backed by GitHub public projects.
 
 # 🇫🇷
-### C'est une course realisée par moi comme une introduction au profil devOps.
+### C'est un course realisé par moi comme une introduction au profil devOps.
 ### Meme si le cours soit orienté aux élèves d'un master en développement web, le contenu est gratuit sur l' internet.
 
 
