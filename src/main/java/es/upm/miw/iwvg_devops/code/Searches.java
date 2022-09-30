@@ -30,7 +30,7 @@ public class Searches {
                         .anyMatch(fraction -> fractionDenominator == fraction.getDenominator()))
                 .map(User::getFamilyName);
     }
-    //en dessous de là, tout reste à faire
+    //à partir d'ici, tout doit être complété
     public Stream<String> findUserFamilyNameInitialByAnyProperFraction() {
         return Stream.empty();
     }
