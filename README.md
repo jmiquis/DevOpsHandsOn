@@ -1,7 +1,7 @@
 
 ## 🇬🇧
 # HandsOn DevOps course
-### This is an introductory devOps course based on a software engineering master from one of thr top Spain's university.Although it is oriented to this master students, the contents are free to use on the internet.Also, the YouTube channel has many superb content and usually is backed by GitHub public projects.
+### This is an introductory devOps course based on a software engineering master from one of the Spain's top universities .Although it is oriented to this master students, the contents are free to use on the internet. Also, the YouTube channel has many superb content and usually is backed by GitHub public projects.
 
 ## 🇫🇷
 ### Bien que le cours s'adresse aux étudiants de master, tous les contenus sont téléchargés sur Internet et peuvent être utilisés gratuitement.
